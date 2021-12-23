@@ -1,5 +1,3 @@
-## Images
-
 ![avatar](/img/serzhanzhs.jpg)
 
 ---
