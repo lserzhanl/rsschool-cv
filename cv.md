@@ -36,7 +36,7 @@ And my goal is to become a cool programmer.
 * CSS3
 * Git, Github
 * VS Code
-* MS SQL + 1C
+* MS SQL + 1C:Enterprise 8
 
 ---
 
