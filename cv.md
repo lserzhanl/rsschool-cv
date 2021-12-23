@@ -1,3 +1,9 @@
+## Images
+
+![avatar](/img/serzhanzhs.jpg)
+
+---
+
 # Serzhan Zhumagazhayev
 ### Future Front-End developer
 
