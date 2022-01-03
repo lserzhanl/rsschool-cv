@@ -1,3 +1,3 @@
 # rsschool-cv
-https://GITHUB-USERNAME.github.io/rsschool-cv/cv
-https://GITHUB-USERNAME.github.io/rsschool-cv/
+https://lserzhanl.github.io/rsschool-cv/cv<br>
+https://lserzhanl.github.io/rsschool-cv/
