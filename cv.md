@@ -1,4 +1,4 @@
-![avatar](/img/serzhanzhs.jpg)
+![avatar](./assets/img/serzhan200.png)
 
 ---
 
