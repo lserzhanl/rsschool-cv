@@ -1,1 +1,0 @@
-https://lserzhanl.github.io/rsschool-cv/
