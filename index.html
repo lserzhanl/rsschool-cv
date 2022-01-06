@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css">    
+    <link rel="stylesheet" href="./style.css">
     <link rel="icon" href="./assets/ico/favicon.ico">
     <title>cv</title>
 </head>
+
 <body>
+    <!-- HEADER START -->
     <header class="header">
         <div class="container">
             <nav class="nav">
@@ -19,7 +22,7 @@
                     <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
                     <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
                     <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
-                    <li class="nav-item"><a href="#code" class="nav-link">Code example</a></li>
+                    <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
                     <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
                 </ul>
             </nav>
@@ -49,6 +52,7 @@
                             <li>Github - lserzhanl</li>
                         </ul>
                     </section>
+                    <!-- SKILLS START -->
                     <section class="section" id="skills">
                         <h2>SKILLS</h2>
                         <ul class="ul-left">
@@ -60,6 +64,17 @@
                             <li>MS SQL, 1C: Enterprise 8</li>
                         </ul>
                     </section>
+                    <!-- SKILLS END -->
+                    <!-- LANGUAGES START -->
+                    <section class="section" id="languages">
+                        <h2>LANGUAGES</h2>
+                        <ul class="ul-left">
+                            <li>Kazakh: native</li>
+                            <li>Russian: native</li>
+                            <li>English: A2-B1. I’m working on it</li>
+                        </ul>
+                    </section>
+                    <!-- LANGUAGES END -->
                 </div>
                 <!-- SIDE LEFT END -->
 
@@ -68,7 +83,7 @@
                     <!-- ABOUT ME START -->
                     <section class="section" id="about-me">
                         <h2>ABOUT ME</h2>
-                        <p>Hello. My name is Serzhan, but my friends call me Serzh. I’m 34 years old. I was
+                        <p class="about-p"> Hello. My name is Serzhan, but my friends call me Serzh. I’m 34 years old. I was
                             born in Aktobe,
                             and now I live in Nur-Sultan. I work in the IT field as a “1C database Administrator”.
                             Communicable, responsive,
@@ -92,29 +107,20 @@
                         </p>
                     </section>
                     <!-- EDUCATION END -->
-                    <!-- LANGUAGES START -->
-                    <section class="section" id="languages">
-                        <h2>LANGUAGES</h2>
-                        <ul class="ul-right">
-                            <li>Kazakh: native</li>
-                            <li>Russian: native</li>
-                            <li>English: A2-B1. I’m working on it</li>
-                        </ul>
-                    </section>
-                    <!-- LANGUAGES END -->
                     <!-- COURSES START -->
                     <section class="section" id="courses">
                         <h2>COURSES</h2>
                         <ul class="ul-right">
                             <li>RS Schools Course - «JavaScript/Front-end. Stage 0» (in progress)</li>
-                            <li><a href="http://code.mu/ru/javascript/book/prime/" target="_blank">code.mu</a> - Basic JavaScript Tutorial (in progress)</li>
+                            <li><a href="http://code.mu/ru/javascript/book/prime/" target="_blank">code.mu</a> - Basic
+                                JavaScript Tutorial (in progress)</li>
                         </ul>
                     </section>
                     <!-- COURSES END -->
                     <!-- CODE START -->
                     <section class="section" id="code">
                         <h2>CODE</h2>
-                        <pre>
+                        <pre class="pre-code">
                             <code class="code">
     &lt;p&gt;
         &lt;<span style="color:rgb(183, 85, 1); font-weight:400;">input</span> id=<span style="color:rgb(84, 121, 13); font-weight:400;">&quot;input1&quot;</span> value=<span style="color:rgb(84, 121, 13); font-weight:400;">&quot;1&quot;</span>&gt;
@@ -160,13 +166,13 @@
                 <ul class="nav-list mod-footer">
                     <li class="nav-item">
                         <a class="github" href="https://github.com/lserzhanl" target="_blank">
-                            <img src="./assets/logo/github-logo-32.png" alt="github-logo">
+                            <img src="./assets/logo/github-logo-32.png" alt="github-logo" width="105" height="32">
                         </a>
                     </li>
                     <li class="nav-item">© 2022</li>
                     <li class="nav-item">
                         <a class="rss" href="https://rs.school/js/" target="_blank">
-                            <img src="./assets/svg/rs_school_js.svg" alt="rss-logo" height="32">
+                            <img src="./assets/svg/rs_school_js.svg" alt="rss-logo" width="105" height="32">
                         </a>
                     </li>
                 </ul>
@@ -175,4 +181,5 @@
     </footer>
     <!-- FOOTER END -->
 </body>
+
 </html>
